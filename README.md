@@ -5,7 +5,7 @@ Let,s jump into into the quize,the quize is about how well do you know me.
 
 In this projext,I have learned how to use JAVASCRIPT topics like
 
-              1.Vriables
+              1.Variables
               2.Functions
               3.Strings
               4.Branching
