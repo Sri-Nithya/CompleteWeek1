@@ -1,4 +1,4 @@
-# DoyOuKnowMe-CLI Quize App
+# DoYouKnowMe-CLI Quize App
 <p>In this project i have created a small quize app using JavaScript.
 Let,s jump into into the quize,the quize is about how well do you know me.
 </p>
